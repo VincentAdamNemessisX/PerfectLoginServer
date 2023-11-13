@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'mainLogin.apps.MainloginConfig'
 ]
 
 MIDDLEWARE = [
@@ -55,7 +56,7 @@ ROOT_URLCONF = 'PerfectLoginServer.urls'
 TEMPLATES = [
     {
         'BACKEND': 'django.template.backends.django.DjangoTemplates',
-        'DIRS': [os.path.join(BASE_DIR/'templates')],
+        'DIRS': [os.path.join(BASE_DIR, '../mainLogin/templates')],
         'APP_DIRS': True,
         'OPTIONS': {
             'context_processors': [
