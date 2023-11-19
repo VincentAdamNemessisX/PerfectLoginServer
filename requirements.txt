@@ -1,0 +1,18 @@
+asgiref @ file:///tmp/build/80754af9/asgiref_1617740417847/work
+async-timeout==4.0.3
+certifi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_477u68wvzm/croot/certifi_1671487773341/work/certifi
+cffi @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_1b0qzba5nr/croot/cffi_1670423213150/work
+cryptography @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_19cvzxmeb9/croot/cryptography_1677533085498/work
+Django @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_02mqkg06ol/croots/recipe/django_1661284244145/work
+django-redis==5.4.0
+django-simpleui==2023.8.28
+importlib-metadata==6.7.0
+mysqlclient @ file:///opt/concourse/worker/volumes/live/a00baea8-7042-4e61-5922-65c2a6fb6552/volume/mysqlclient_1609786256659/work
+psycopg2 @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_c53vfly7f7/croot/psycopg2_1666817457628/work
+pycparser @ file:///tmp/build/80754af9/pycparser_1636541352034/work
+PyMySQL @ file:///opt/concourse/worker/volumes/live/bb2ed9f0-4942-4298-76ba-b02a97cb1970/volume/pymysql_1610482900108/work
+pytz @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_ddzpsmm2_f/croot/pytz_1671697430473/work
+redis==5.0.1
+sqlparse @ file:///private/var/folders/sy/f16zz6x50xz3113nwtb9bvq00000gp/T/abs_204sy4e5t2/croot/sqlparse_1668793448973/work
+typing_extensions==4.7.1
+zipp==3.15.0
